@@ -9,6 +9,7 @@ HC-SR04 Ultrasonic Sensor: Measures distance to obstacles.
 LPC2129 Microcontroller: Handles data processing and CAN communication.
 CAN Protocol: Facilitates communication between two LPC2129 nodes.
 Buzzer and LEDs: Provide feedback based on proximity.
+
 System Design
 NODE A ECU: Connected to the vehicle's reverse gear switch, this node activates the reverse mode and controls the buzzer and LEDs.
 NODE B ECU: Connected to the HC-SR04 sensor, this node measures the distance to obstacles and sends the data to the NODE A via CAN.
