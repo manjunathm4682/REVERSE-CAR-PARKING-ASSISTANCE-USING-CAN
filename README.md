@@ -1,4 +1,4 @@
-# REVERSE-PARKING-ASSISTANCE-USING-CAN
+# REVERSE-CAR-PARKING-ASSISTANCE-USING-CAN
 **Reverse car Parking Assistance Using CAN**
 This project implements a reverse parking assistance system using the HC-SR04 ultrasonic sensor module and the CAN (Controller Area Network) protocol on an ARM-7-based LPC2129 microcontroller board.
 
